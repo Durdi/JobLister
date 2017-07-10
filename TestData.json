@@ -1,0 +1,354 @@
+{
+  "jobs": [
+    {
+      "company_name": "Netlify",
+      "description": "### Overview\r\n\r\nAt [Netlify](https://www.netlify.com), we’re building a platform to empower digital designers and developers to build better, more elaborate web projects than ever before. We’re aiming to change the landscape of modern web development.\r\n\r\nThe fullstack engineer's mission is to build the APIs and user interfaces that thousands of developers use when they deploy their sites on Netlify.\r\n\r\n\r\n### Some of the challenges you’ll be working on\r\n\r\n- Build new features to make working with Netlify a fantastic experience for developers.\r\n- Build internal tools to help our other teams interact with our users.\r\n- Integrate our [Open Source](/open-source) projects with the rest of Netlify's platform.\r\n- Make using our CLI a delightful experience for new and experienced users.\r\n\r\n\r\n### To be effective in this role, you’ll benefit from experience in:\r\n\r\n- Scripting programming languages. We use Ruby, with Rails as web framework, and JavaScript.\r\n- Writing web applications with a decoupled JavaScript frontend.\r\n- UI and UX experience.\r\n- Web and CDN technologies.\r\n- Internet standards like HTTP, DNS, and TLS.\r\n\r\n\r\n### Competencies that we value in candidates\r\n\r\n- You enjoy helping and mentoring other engineers to grow.\r\n- You can focus on key priorities and pragmatic solutions.\r\n- You can adjust quickly to changing priorities and conditions.\r\n- You are curious about compiled programming languages. We use Go and C++ in some areas of our infrastructure.\r\n\r\n\r\n### About the Team\r\n\r\nThough the team is small, we are a fast-growing startup. You will be working across the company. There are only less than twenty of us, so you are getting in at a time when we need people who can help us build a path towards the future.\r\n\r\nWe believe that empowered, engaged employees do the best work. We’ll be giving you the tools you need to succeed and looking to you for suggestions for improvement not just in your daily job, but in many other aspects of building a company. Whether you work from our main office in San Francisco, or you are a remote employee, we’ll be working together a lot - particularly, pairing and collaborating - we want you to succeed!  We don’t want you to work too hard (burnout is real), and we do want to encourage you to grow ([impostor syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) is also real) - and we’ll help you do that.\r\n\r\nNetlify is devoted to building a team of people with different backgrounds and lifestyles. We eagerly invite applications from people of all kinds. We don’t discriminate against employees or applicants based on gender identity or expression, sexual orientation, religion, age, race, citizenship, pregnancy status, or any other differences. If we can do anything to provide a better interview, i.e. accommodate a disability, then please do let us know.\r\n\r\n\r\n### How we hire\r\n\r\nOur hiring process starts as soon as you email us at [careers@netlify.com](mailto:careers@netlify.com). Please send us a thoughtful cover letter explaining why you enjoy building APIs and microservices, and why you’d like to work at Netlify.\r\n\r\nAfter we evaluate this email, we will schedule a conference call so we can meet. If you live in San Francisco, we usually substitute this call with a visit to our office. This first meeting helps us to learn more about your past experience and helps you to learn a little bit more about our company and how we work.\r\n\r\nIf we move forward with the process, we will work together in designing a test to evaluate your technical skills. We’ll invite you to join a dedicated Slack channel where we can reach each other and talk about the test.\r\n\r\nIf the test is successful, we'll schedule a next meeting with other members of the company that you’ll be working with, directly or indirectly.\r\n\r\nAfter this third interview, you’ll meet with the management team to discuss salary and other compensations.\r\n\r\n",
+      "featured": "true",
+      "featured_text": "Join us on our mission to secure and modernize the web",
+      "remote": "false",
+      "term": "Full Time",
+      "title": "Fullstack Engineer",
+      "url": "http://codepen.io/url/job/ZpeOqr",
+      "hashid": "nAmxDz",
+      "address": {
+        "address1": "2475 3rd Street ",
+        "city": "San Francisco",
+        "state_prov": "CA",
+        "postal_code": "94107",
+        "country": "US"
+      }
+    },
+    {
+      "company_name": "Pobble",
+      "description": "Join our product team to play a crucial role in the development of our platform. Shape the user experience of a product that has immense impact, every day...\r\n\r\nYou’ll work with a small, experienced team. Our product is still young so there is plenty of room to introduce technologies, tools and processes. On the other hand, we have incredible domain knowledge in-house, a growing base of customers for rapid feedback and financial backing from some great experts in the education industry.\r\n\r\n \r\n\r\n###ABOUT US\r\n\r\n[Pobble](https://pobble.com) is an award winning edtech start-up, founded by teachers. We believe that a spark of inspiration can change a child’s trajectory. After an initial 2 years on the previous build, we relaunched in September 2015 and are now seeing rapid growth.\r\n\r\nToday, primary school teachers use Pobble to find teaching resources, collaborate with classes across the world, and give pupils a real audience for their writing. In short, Pobble makes writing ridiculously exciting!\r\n\r\nWe work with hundreds of schools and reach tens of thousands of pupils every week. And we’re just getting started: we are growing fast in the UK and internationally, and are creating the product to make that possible.\r\n\r\n \r\n\r\n### ABOUT YOU\r\n\r\nWe can't wait to see your work. How have you impacted the success of the previous products you've worked on? Here is what's important to us (and we hope also to you):\r\n\r\n- Experience with our stack (React, Angular, ES6, Webpack, Gulp, REST)\r\n- Agile methodologies (we stand-up every day and constantly groom our backlog)\r\n- Data and metrics (test, learn and implement – rinse and repeat)\r\n- Eager to try stuff (if it doesn’t work: fine, learn from it and try again)\r\n- Team play (share your experience to make the team better)\r\n- An open team atmosphere (code reviews, open discussion and always beer in stock)\r\n\r\n \r\n\r\n### COMPENSATION DETAILS\r\n\r\nYou’ll receive £55-65k base salary depending on experience. Additionally, all our team members have the opportunity to own a part of our business as part of our option scheme. On top of that we offer:\r\n\r\n- Work with a great [team](https://pobble.com/join-us) of passionate and talented individuals;\r\n- A fantastic office environment in the heart of Primrose Hill, London (Utopia Village);\r\n- 10 minutes walk from Camden Town tube;\r\n- Freedom to work flexible hours in line with the needs of your job, and partly remote;\r\n- A budget for training and development.\r\n\r\n \r\n\r\n### AND NOW...\r\n\r\nIf this sounds good, don’t wait a second longer and [get in touch](https://www.pobble.com/join-us#op-181943-frontend-engineer). We’ll get back to you soon!",
+      "featured": "false",
+      "featured_text": "",
+      "remote": "false",
+      "term": "Full Time",
+      "title": "Front End Developer",
+      "url": "http://codepen.io/url/job/nyaxkn",
+      "hashid": "WARZYA",
+      "address": {
+        "address1": "36H Chalcot Sq",
+        "city": "London",
+        "state_prov": "London",
+        "postal_code": "NW1 8YP",
+        "country": "GB"
+      }
+    },
+    {
+      "company_name": "Booking.com",
+      "description": "Booking.com BV (the company behind Booking.com™, the market leading online accommodation reservation service in the world) is looking for the world’s smartest designers. Join the world’s leading accommodation company and help define the future of travel. This position offers the successful candidate the freedom to make meaningful and measurable improvements, impacting millions of people. You’ll join us at our beautiful Amsterdam HQ and work with some of our industry’s smartest people.\r\n\r\n\r\n**B.responsible**\r\n\r\nAs a UX Designer you’ll be a key part of the idea generation process, working in a small startup-like group which takes full ownership of their part of our platform. ‘Designer’ is just what it says on your CV – you’d be just as happy to be labeled an Engineer, or Analyst; a Builder, Maker or Problem Solver. Your portfolio is a collection of stories that you can discuss with enthusiasm, and regret … because you’re always getting better at what you do and you’re never satisfied with ‘good enough’. You’re excited about the endless potential of the web and being able to build things that millions of people can use every day.\r\n\r\n \r\n\r\n**B.skilled**\r\n\r\nAs a candidate for the UX Designer position, you possess a broad range of abilities:\r\n\r\nYou are comfortable with each part of the design process, from research to exceptional UI design, through to shipping production code\r\nYou are proficient with HTML & CSS\r\nYou have experience with template engines to display data from the backend – you’d be implementing your work using our in-house templating engine (don’t worry - we’ll show you the ropes!)\r\nYou are comfortable creating the wireframes, polished mockups, and prototypes needed to communicate them (e.g., Sketch, Framer, InVision)\r\nYour strengths include being self-driven and taking full ownership of your ideas to solve challenging problems\r\nYou are comfortable working collaboratively with developers, product owners, and copywriters\r\nYou thrive on feedback and critique, responding with creative thinking and iterative design\r\nYou are a passionate advocate for the user, dedicated to the craft of design and creating elegant user experiences\r\nYou understand and thrive in an environment which employs extensive A/B testing - Booking.com is a data-informed company\r\n \r\n\r\n**B. Experienced**\r\n\r\nWe’re looking for Designers with a minimum of 4 years of relevant experience, ideally with some history of working in e-commerce & data-informed organisations.\r\n\r\nDesigners at Booking.com must be excellent collaborators – we work in an agile, dynamic, diverse environment in which openness & humility are key. Our designers combine their knowledge and expertise with the goals of our business to deliver a world-class user experience to our diverse, loyal user-base. At Booking.com, design is a team sport, and together we solve hard problems while keeping the user at the center of everything we do.\r\n\r\nEnsuring a diverse and inclusive workplace is part of our core values. We are an equal opportunity employer and know that a team of different backgrounds, abilities, and perspectives makes us thrive and build better products. We are fortunate to be members of one of the most diverse design teams in the world and we do our best work when we join forces. We’re looking forward to welcoming you into our team of exceptionally talented and fun colleagues, where you'll do challenging and rewarding work.\r\n\r\nYou will also contribute to the growth of Booking.com through interviewing, on-boarding, or other recruitment efforts\r\n\r\n \r\n\r\n**B.offered**\r\n\r\nWe are a performance-based company that offers career advancement and lucrative compensation, including bonuses and stock potential.  We also offer what we call the “Booking Deal” with other competitive perks and benefits.  IT also has regular hackathons, training and attends/speaks at global conferences.\r\n\r\nThis position is open to worldwide candidates and in the case of relocation, we will assist you with a generous relocation package, ensuring a smooth transition to working and living in Amsterdam.  We have successfully relocated 200+ IT professionals to Amsterdam in the last year!\r\n\r\n\r\n**Interested?**\r\n\r\nPlease send your CV and portfolio to **jorrit.devries@booking.com**.",
+      "featured": "false",
+      "featured_text": "",
+      "remote": "false",
+      "term": "Full Time",
+      "title": "UX Designer (html/css)",
+      "url": "http://codepen.io/url/job/ZALPDz",
+      "hashid": "VzvRaz",
+      "address": {
+        "address1": "Herengracht 597",
+        "city": "Amsterdam",
+        "state_prov": "",
+        "postal_code": "1017CE",
+        "country": "NL"
+      }
+    },
+    {
+      "company_name": "Booking.com",
+      "description": "Booking.com BV (the company behind Booking.com™, the market leading online hotel reservation service in the world) is looking for a Graduate UX Designer. \r\n\r\n\r\n\r\n**B.epic**\r\n\r\nAs a Graduate UX Designer at one of the world's biggest e-commerce websites you'll have unparalleled freedom to make a big impact on our business. Your ideas and analyses will find their way into the hands of millions of our users, and you'll learn quickly about user behavior at scale. This Graduate Program really allows you to make your mark within the organization. We will encourage you to take full ownership of your projects and to make decisions every day. You will get insight and experience in a worldwide fast-growing internet company and a unique opportunity to learn about our business from some of the industry’s best people.\r\n\r\n\r\n\r\n**B.responsible**\r\n\r\n•\tYou will rotate in different projects over the course of this 12 month program to get maximum exposure to all parts of our business to assist in your development. During the program, you will develop an in-depth understanding and knowledge of IT at Booking.com, working on live projects and getting on and off-the job training.\r\n\r\n•\tWork with developers, product owners, copywriters and user researchers to conceive, analyze, hand code and test your ideas.\r\n\r\n•\tPlay a key-part in the idea generation process.\r\n\r\n•\tWrite excellent HTML and CSS. You’re excited about the endless potential of the web, and being able to build things that millions of people can use every day.\r\n\r\n•\tYou will prioritize your own work together with your team and product owner. Through A/B testing you will receive direct and immediate feedback from millions of users.\r\n\r\n\r\n\r\n**B.Skilled**\r\n\r\nWe love working with passionate, enthusiastic, self-motivated, pro-active people who are eager to learn, and to share their knowledge and experience with colleagues. Our ideal candidate is motivated to achieve the best results for his/her team and fulfills the following requirements:\r\n\r\n•\tYou are enthusiastic to work in a large e-commerce environment.\r\n\r\n•\tYou have passion for design and strong visual design skills.\r\n\r\n•\tYou are more than comfortable in the core areas of web design: writing production- standard HTML and CSS, creating beautiful, usable design work, and working closely with your technical colleagues to see the idea through exemplary implementation.\r\n\r\n•\tYou are not only capable of making beautiful designs, but also able to make data driven designs that improve the user experience and contribute to our business.\r\n\r\n•\tYou have craftsmanship in your work, and you have a great business sense.\r\n\r\n•\tYou love data. You are driven by data.\r\n\r\n•\tYou have practical hands-on experience during internships, freelance projects or after graduation.\r\n\r\n•\tYou can showcase your design from personal projects or your portfolio.\r\n\r\n•\tYou have a Bachelors or Masters degree in Design or equivalent.\r\n\r\n\r\n\r\n**Nice to haves**\r\n\r\n•\tExperience in e-commerce\r\n\r\n•\tExperience with A/B testing\r\n\r\n\r\n**Interested?**\r\n\r\nPlease send your CV and portfolio to **jorrit.devries@booking.com**.\r\n\r\n",
+      "featured": "false",
+      "featured_text": "",
+      "remote": "false",
+      "term": "Full Time",
+      "title": "Graduate UX Designer",
+      "url": "http://codepen.io/url/job/ZLRJNn",
+      "hashid": "rEYavE",
+      "address": {
+        "address1": "",
+        "city": "Amsterdam",
+        "state_prov": "",
+        "postal_code": "1017CE",
+        "country": "NL"
+      }
+    },
+    {
+      "company_name": "silverorange",
+      "description": "",
+      "featured": "false",
+      "featured_text": "",
+      "remote": "true",
+      "term": "Full Time",
+      "title": " Web Developer (Node/React)",
+      "url": "http://codepen.io/url/job/zALPwn",
+      "hashid": "DEVMxA"
+    },
+    {
+      "company_name": "AltspaceVR",
+      "description": "We need design-minded front end developers with deep knowledge of modern web development to create next generation user interfaces. We are leveraging a Chromium integration paired with powerful VR APIs to present web apps in holographic 3D to devices like the Oculus Rift and HTC Vive. Forget supporting IE. With us you'd be programming against HUDs, non-rectangular displays, and holographic projectors.  \r\n\r\n[See more about AltspaceVR](https://www.youtube.com/watch?v=CQtQGoMRXaI) \r\n\r\nWe are:  \r\n\r\n- A virtual reality software company [https://twitter.com/AltspaceVR](https://twitter.com/AltspaceVR)  \r\n- Backed by some of the best investors on the planet [http://altvr.com/about/](http://altvr.com/about/)  \r\n- A team that is passionate about the future of VR  [http://altvr.com/team/](http://altvr.com/team/)  \r\n\r\n**[Apply!](https://jobs.lever.co/altspace/9761fb55-6bf5-4d49-852d-6ad9b09154eb)**",
+      "featured": "false",
+      "featured_text": "",
+      "remote": "false",
+      "term": "Full Time",
+      "title": "Virtual Reality Front End UI Engineer",
+      "url": "http://codepen.io/url/job/nedPmr",
+      "hashid": "JzoxrA",
+      "address": {
+        "address1": "850 Veterans Blvd #305",
+        "city": "Redwood City",
+        "state_prov": "California",
+        "postal_code": "94063",
+        "country": "US"
+      }
+    },
+    {
+      "company_name": "Handbuilt Creative",
+      "description": "**JOB DESCRIPTION**\r\n\r\n- - -\r\n\r\nHandbuilt is looking for a talented super-genius to help conceive, design and develop highly immersive Augmented Reality (AR) products primarily using Apple’s ARKit, Google’s Tango, and Unreal Engine (or Unity), along with support to build on Handbuilt’s existing augmented reality product lines that are currently in development.\r\n\r\nTo this extent you will be able to demonstrate successful commercial experience developing for iOS and Android, and be very interested or have experience in technologies such as React Native.\r\n\r\nIn addition, this position may allow for the potential to contribute to high-end web app design + development areas that Handbuilt also work in, so having skills in user experience / UX design and modern javascript technologies such as Node and React are sought after too.\r\n\r\nEqually important to the team here at Handbuilt is the ability to be a team player who can add value to our culture, as well as having an insatiable hunger for learning, and a burning desire to produce the best possible work. It’s the thing we do around here, and it’s seen us scoop 18 international design awards, including a few at the Webby Awards.\r\n\r\nWe’ve designed, developed and managed projects for global brands and billion dollar Australian icons, and our client list ranges across a vast array of business types and sectors - ensuring you always get interesting, challenging projects to work on.\r\n\r\n\r\n- - -\r\n**Where to from here?**\r\n\r\nHere’s the deal…\r\n\r\nYou might not have all the skills we are after, but hard work and a fanatical passion for quality mean a great deal to us (and might just give you a shot) so we encourage people who think they have a decent chunk of the skills we’re after (but missing a few here and there) to get in touch with the usual CV that addresses the criteria below and provides links to that all-important portfolio work!\r\n\r\nWe’re really looking to fill a long-term, full-time position, although we could be swayed if you’re truly kick ass, and salaries will be commensurate with experience.\r\n\r\nFinal shortlisted candidates will be invited (or flown in) for an on-site visit, courtesy of Handbuilt.\r\n\r\nThis permanent full-time position is suitable for Australian citizens and permanent residents of all ages and genders.\r\n\r\nClosing date is Monday 3rd July 2017.\r\n\r\nInterested candidates will apply to:\r\n\r\nDavid Shering\r\n\r\nDirector\r\n\r\n<a href=\"mailto:jobs@handbuiltcreative.com.au\">jobs@handbuiltcreative.com.au</a>\r\n\r\n\r\n\r\n- - -\r\n\r\n**EXPERIENCE**\r\n\r\n- - -\r\n\r\n**Skills you’ll need to show experience in:**\r\n\r\n<ul>\r\n<li>Objective-C and/or Swift</li>\r\n<li>Java</li>\r\n<li>ARkit</li>\r\n<li>Unreal engine and/or Unity</li>\r\n<li>SceneKit</li>\r\n<li>SpriteKit</li>\r\n<li>Metal</li>\r\n</ul>\r\n\r\n\r\n<ul>\r\n<li>React, Vue or Angular</li>\r\n<li>React Native</li>\r\n<li>Flux / Redux</li>\r\n<li>WebSockets</li>\r\n<li>Node</li>\r\n<li>MongoDB or equiv</li>\r\n<li>HTML/SASS/MySQL/PHP</li>\r\n<li>Git / Github</li>\r\n<li>SSH / command line</li>\r\n</ul>\r\n\r\n\r\n- - -\r\n\r\n**Useful but non-essential skills**\r\n\r\n<ul>\r\n<li>Sketch / Illustrator</li>\r\n<li>3DS Max / Maya or equiv.</li>\r\n<li>3D modelling, rigging, rendering or lighting</li>\r\n</ul>\r\n\r\n\r\n\r\n- - -\r\n\r\n**PERKS**\r\n\r\n- - -\r\n\r\nWe believe great talent like you deserves a great job, so here’s just some of the perks we offer:\r\n\r\n\r\n**Personal development** - enabling you to create great things\r\n\r\n<ul>\r\n<li>Creative freedom to express your talents</li>\r\n<li>Long term, ongoing position</li>\r\n<li>Wide variety of clients and job types gives a fantastic opportunity to expand your repertoire and experience</li>\r\n<li>Research + development program allows time to explore new and emerging technologies</li>\r\n<li>Chance to work with global & national brands, governments, and major organisations</li>\r\n<li>Our award submissions policy is extensive and successful - meaning you have more chance to gain international recognition</li>\r\n</ul>\r\n\r\n\r\n**Awesome work environment** - having an encouraging and beautiful place to work stimulates creativity\r\n\r\n<ul>\r\n<li>Relaxed studio environment</li>\r\n<li>Large bespoke workstations give generous wrap-around desk space and integrated meeting nooks for inter-team discussions</li>\r\n<li>Ergonomic chairs and individual workstation lighting keep you healthy at work</li>\r\n<li>Shower facilities for that lunchtime run or bike ride</li>\r\n<li>Relaxing lounge area with VR, 4K TV, music and video-game facilities to let you chill out when you need a break, or lay down a serious 4-up challenge for your work mates!</li>\r\n<li>Private gardens with benches to enjoy your lunch, or snooze under the Willow Tree planted in 1884 on hot days</li>\r\n<li>Full kitchen facilities for those who like to prepare a fresh lunch</li>\r\n<li>Mellow and encouraging work ambiance</li>\r\n<li>Choice of brand new Mac or PC with 2 additional dual HD monitors</li>\r\n<li>All the latest creative software you need</li>\r\n<li>Comprehensive internal design + development environments for rapid and efficient work practices</li>\r\n<li>4 tier disaster recovery plan to protect our data, the company and your employment</li>\r\n</ul>\r\n\r\n\r\n**Enviable Location** - because you have to be happy where you live\r\n\r\n<ul>\r\n<li>Tassie’s fast becoming a hot-bed of hi-tech talent attracted here by the highly desirable lifestyle of world-class art, food, wine and natural beauty - all wrapped up in reduced cost of living, affordable housing, and the cleanest, sweetest air anywhere!</li>\r\n<li>Almost no traffic jams (seriously I’ve never sat in a traffic jam in over 8 years)</li>\r\n<li>Willow Cottage Studio is based in the stunning historic town of Richmond – first settled in 1823</li>\r\n<li>Safe and peaceful village surroundings</li>\r\n<li>Family friendly with an idyllic village green which hosts numerous music, cultural and heritage events</li>\r\n<li>Richmond has some of the State’s top primary schools</li>\r\n<li>Quiet roads - perfect for lunchtime runs and family bike rides</li>\r\n<li>15 mins to Hobart, 10 mins to the airport</li>\r\n<li>Access to some of the World’s most stunning scenery including Wineglass Bay, and World Heritage Areas such as the Tarkine Rainforest and the idyllic Bay of Fires</li>\r\n<li>Miles of jaw-dropping beaches, including our favourite dog friendly one only 10 mins away!</li>\r\n<li>Mt Wellington and Blue Derby are world-class mountain bike parks which have every trail type a fat-tyre enthuisast could dream of, and breathtaking climbing / bouldering are perfect for budding Chris Sharma's out there </li>\r\n</ul>\r\n- - -",
+      "featured": "true",
+      "featured_text": "Fancy a career developing in ARKit + Augmented Reality?",
+      "remote": "false",
+      "term": "Full Time",
+      "title": "Augmented Reality developer (ARKit / Tango) / Javascript UX engineer (React / Node)",
+      "url": "http://codepen.io/url/job/nLRgkZ",
+      "hashid": "Dkdmmz",
+      "address": {
+        "address1": "2 / 4 Percy Street",
+        "city": "Richmond",
+        "state_prov": "TAS",
+        "postal_code": "7025",
+        "country": "AU"
+      }
+    },
+    {
+      "company_name": "TweetDeck",
+      "description": "# TweetDeck is hiring!\r\n\r\nHi, my name's [Amy][5] and I'm a frontend engineer with [TweetDeck][4] in London. We're currently on the lookout for both mid and senior frontend engineers to join our team.\r\n\r\n## The unofficial job description\r\n\r\nYes, you'll be working with legacy code. TweetDeck has been around for a little while now. And no, we're not (yet) using React. \r\n\r\nFor the most part we use a framework called [Flight.js][2], which feels surprisingly similar to React. React is our end goal, and we're close, but we want to eradicate some of our legacy components first. \r\n\r\nI personally find the codebase really exciting. Tweets in columns sounds simple, right? But there is a whole world of complexity and logic to it. You'll constantly stumble into parts of the codebase that you never knew existed. There will always be something new to learn. \r\n\r\nYou'll also be joining TweetDeck at a really exciting time, both technically and for our users. We're currently exploring some brand new, greenfield projects, which will mean building lots of cool new features. \r\n\r\nMost importantly, you'll be joining an incredibly lovely and talented team. You'll be working closely with design, product management and TweetDeck's backend engineers. See my mentor and tech lead Andreas's [Moment][3] for more insight. \r\n\r\n## The [official job description][1]\r\n\r\nIt's a little jam-packed, so please don't let it scare you off. Also note that this description is for a senior candidate. The description for mids is not yet available, but mids are still encouraged to apply. \r\n\r\nOh, and don't feel like you must have a Computer Science degree. We are open to people from both CS and non-CS backgrounds. Our code tests are real world and practical, and require the kind of problem solving that you will use on the job.\r\n\r\n## To apply\r\n\r\nShoot me an email (asimmons@twitter.com) with your resume or LinkedIn, or apply via the Twitter London careers page. \r\n\r\n[1]: https://careers.twitter.com/en/work-for-twitter/senior-front-end-engineer-tweetdeck-london.html\r\n[2]: https://flightjs.github.io/\r\n[3]: https://twitter.com/i/moments/826789348901269504\r\n[4]: https://tweetdeck.twitter.com/\r\n[5]: https://twitter.com/amesimmons\r\n",
+      "featured": "false",
+      "featured_text": "",
+      "remote": "false",
+      "term": "Full Time",
+      "title": "Mid & Senior Frontend Engineers",
+      "url": "http://codepen.io/url/job/zkkRdz",
+      "hashid": "JAoqek",
+      "address": {
+        "address1": "20 Air Street",
+        "city": "London",
+        "state_prov": "",
+        "postal_code": "W1B5AN",
+        "country": "GB"
+      }
+    },
+    {
+      "company_name": "DockYard",
+      "description": "If you have a passion for HTML and CSS, we want you at DockYard!\r\n \r\nDockYard is a software consultancy based in Boston (with remote employees) that specializes in web applications. We have in-house designers, developers, and project managers, and we are looking for a Senior HTML/CSS Developer to join our growing team. You’ll work alongside talented individuals on groundbreaking projects for the world’s largest companies.\r\n \r\nOur workflow involves three steps. Designers hand off mockups to the HTML/CSS developers who then give styled templates to engineers. Traditionally writing HTML and CSS was the responsibility of designers or engineers, but with the rapid growth of HTML5 and CSS3, we believe that there needs to be a role within the team solely focused on those technologies.\r\n \r\nAs an HTML & CSS developer at DockYard you will collaborate closely with our in-house Design and Engineering teams to facilitate the handoff between visual design and implementation. In addition to that, you will be challenged with helping drive the creation of web applications and solving interesting problems regarding accessibility, browser compatibility, standards compliance, and responsive design.\r\n \r\n## Responsibilities\r\n \r\nLead the HTML & CSS development and architecture of modern web applications, operating between Design and Engineering teams, using industry best practices.\r\nAssist in scoping, estimating, and planning for projects, in collaboration with the team lead.\r\nAct as a mentor to others, guiding and influencing peers through work review, pairing, or other forms of knowledge sharing.\r\nIdentify and go after industry developments and business opportunities.\r\n\r\n## Must Haves\r\n \r\n* Advanced knowledge of HTML5 and CSS3\r\n* Experience with BEM and SMACSS\r\n* Experience with Sketch and/or Photoshop\r\n* Excellent communication skills\r\n\r\n## Nice to Haves\r\n\r\n* Knowledge of PostCSS\r\n* Prior client services, consulting, or freelancing experience\r\n* Experience working in a remote team\r\n\r\n## Level\r\n\r\nSenior\r\n\r\n## Employment Type\r\n\r\nFull-time, remote (U.S. only)\r\n\r\n## Apply\r\n\r\nPlease send an email to careers@dockyard.com with your contact information, a bit of background about yourself, and the reason why you are applying.\r\n\r\nAt DockYard, we value diversity and strongly encourage candidates from all backgrounds to apply.",
+      "featured": "false",
+      "featured_text": "",
+      "remote": "true",
+      "term": "Full Time",
+      "title": "Senior HTML/CSS Developer",
+      "url": "http://codepen.io/url/job/ZDYoJr",
+      "hashid": "pALdrA"
+    },
+    {
+      "company_name": "InVision AG",
+      "description": "",
+      "featured": "false",
+      "featured_text": "",
+      "remote": "false",
+      "term": "Full Time",
+      "title": "Frontend Developer",
+      "url": "http://codepen.io/url/job/nJRmYn",
+      "hashid": "aAqoVk",
+      "address": {
+        "address1": "Speditionstr. 5",
+        "city": "Düsseldorf",
+        "state_prov": "",
+        "postal_code": "40221",
+        "country": "DE"
+      }
+    },
+    {
+      "company_name": "N26",
+      "description": "## Who we are\r\n\r\n[N26](https://n26.com) aims at being Europe’s first Mobile Bank. We want the banking experience to be simple, fast and contemporary with a strong focus on the user. This is why design and technology empower everything we do.\r\n\r\nOur offices in the center of Berlin are where the 200 of us work to provide Europe a fantastic banking experience.\r\n\r\n## Who you are\r\n\r\nWe’ll be entirely honest, we don’t have an overly specific profile in mind.\r\n\r\nWe are simply looking for good software developers who care about building a good product. So if you want to work on an ambitious web platform supporting N26, powered by a robust yet recent tech stack shaped with fresh design, maybe we would be a good fit for you!\r\n\r\nRegarding skills & qualifications, you should obviously know a good deal of HTML, CSS and JavaScript. You should be able (and willing) to work in a fast and efficient agile framework. And finally you should care about accessibility, performance and user experience. We would say almost everything else, such as knowledge in React and GraphQL is a plus.\r\n\r\n## What you will do\r\n\r\nWorking here, you will join our cross-disciplinary teams to work on N26 projects, such as the new website, the revamping of the web application, or the registration process. Our entire tech stack is unified across all web projects so the learning curve from one project to the other is practically non existant.\r\n\r\nIf you would like to know more about the said tech stack, you’ll be pleased to know we build and maintain a universal React application, fed with GraphQL, styled with Fela and covered with extensive tests (routes, accessibility,  end-to-end…). Nothing but the good!\r\n\r\n## How to apply\r\n\r\nGet in touch with [@HugoGiraudel](https://twitter.com/HugoGiraudel) on Twitter, or apply directly from the [official offer on N26.com](https://n26.com/jobs/126939/?gh_jid=126939). We’re excited to welcome you!\r\n",
+      "featured": "false",
+      "featured_text": "",
+      "remote": "false",
+      "term": "Full Time",
+      "title": "Front End Developer",
+      "url": "http://codepen.io/url/job/nqaJkn",
+      "hashid": "vAJLnk",
+      "address": {
+        "address1": "",
+        "city": "Berlin",
+        "state_prov": "",
+        "postal_code": "10179",
+        "country": "DE"
+      }
+    },
+    {
+      "company_name": "Airtable",
+      "description": "### About Airtable\r\n\r\n[Airtable](https://airtable.com/product) is a real-time end-user database. Our mission is to democratize software creation by enabling anyone to build the tools that meet their needs. Creators and creatives around the world use Airtable to do everything from cattle tracking to filmmaking, and they have [great things to say.](https://twitter.com/airtable/timelines/566728799115440128)\r\n\r\nWe are looking for frontend engineers with an eye for great design to help us build new features. Each individual feature is entirely self-contained and you will be building it from the ground up.\r\n\r\n\r\n### Qualifications and responsibilities\r\n\r\n- Expert JavaScript skills, with at least one year of experience with React.js\r\n- The ability to make sensible product decisions.\r\n\r\n\r\n### How to apply\r\n\r\nEmail k@airtable.com with your resume and link to your portfolio.",
+      "featured": "false",
+      "featured_text": "kasrak",
+      "remote": "true",
+      "term": "Contract",
+      "title": "Front End Engineer",
+      "url": "http://codepen.io/url/job/rXjPLz",
+      "hashid": "LExWLA"
+    },
+    {
+      "company_name": "Reach Robotics ",
+      "description": "You’ll be working closely with our web development team, designing and helping implement modern web applications, covering a range of requirements from account management, to real-time game playback and interactive MekaMon management. You’ll also have the opportunity to work on game/app assets, company branding, game scripting, and various other creative tasks.\r\n\r\n\r\n**Required**\r\n\r\n- A love of games!\r\n- A rich portfolio demonstrating your skills, both in web and graphic design\r\n- Demonstrable ability designing large web apps, and assisting with implementation\r\n- Strong understanding of UI and UX principles, with demonstrable experience taking concepts through to completion\r\n- Demonstrable ability producing wireframes, storyboards and fast prototypes (using tools such as Adobe InDesign, Sketch, Balsamiq)\r\n- Acceptance of the mobile-first credo. And the ability to take it from mobile to desktop graciously\r\n- Considerable experience with HTML5  and CSS3 (SVG and/or Canvas manipulation, CSS animations and keyframes, media queries, flexbox and grid layouting)\r\n- Knowledge of CSS pre-processors, namely SASS, and the ability to produce semantic stylesheets\r\n- Ability to integrate your deliverables with a front-end project stack (React, babel, webpack, npm)\r\n- Working understanding of version control systems such as Git\r\n \r\n- Project management skills under real-time constraints\r\n- The ability to integrate well with artists, developers, and other employees\r\n- Comfortably learn new tools and approaches when required\r\n\r\n\r\n**Bonus**\r\n\r\n- Bachelor's degree in web/graphic design, human factors, cognitive psychology, computer science, or similar discipline\r\n- Experience designing and deploying CMS solutions based in Wordpress\r\n\r\n- Knowledge of ES6 and front-end development using React.js\r\n\r\n- Art concepting skills\r\n\r\n- Experience working with branding exercises, and merchandising\r\n\r\n- Lightweight game/app asset generation skills\r\n\r\n- Working knowledge of Unity (other game engines a bonus), and its asset pipeline\r\n\r\n\r\n[Apply at Reach Robotics where you can upload your CV and portfolio](https://reachrobotics.com/reachroboticscareers/?bzid=d59d1cf86239 \"\")",
+      "featured": "true",
+      "featured_text": "Gaming + Robotics + Augmented Reality.......Come and join the future of gaming.",
+      "remote": "false",
+      "term": "Full Time",
+      "title": "Web Designer  and Front End Developer",
+      "url": "http://codepen.io/url/job/zxeybZ",
+      "hashid": "mEaYwE",
+      "address": {
+        "address1": "Future Space",
+        "city": "Bristol",
+        "state_prov": "",
+        "postal_code": "BS34 8RB",
+        "country": "GB"
+      }
+    },
+    {
+      "company_name": "Blue Chip Marketing Worldwide ",
+      "description": "",
+      "featured": "false",
+      "featured_text": "",
+      "remote": "false",
+      "term": "Full Time",
+      "title": "Senior Front End Developer",
+      "url": "http://codepen.io/url/job/zWGgKz",
+      "hashid": "nAeZWE",
+      "address": {
+        "address1": "650 Dundee Rd",
+        "city": "Northbrook",
+        "state_prov": "IL",
+        "postal_code": "60065",
+        "country": "US"
+      }
+    },
+    {
+      "company_name": "Manifesto Digital",
+      "description": "###About us\r\n[Manifesto](https://manifesto.co.uk) are an agency of creatives and technologists who collaborate with exceptional organisations to change things for the better.\r\n\r\nWe offer a range of services across strategy and consultancy, campaign and content creation and creating digital platforms and experiences.\r\n\r\nOur aim is to strike a balance between client work, internal projects and personal and team development. Wherever possible we will reflect your personal interests, preferences and desires.\r\n\r\nWe’re looking for someone with a Front End mindset to join our ever-expanding family.\r\n\r\n###The role\r\n\r\n- You’ll have strong skills with HTML5, CSS3, and cross browser/device compatibility; a general understanding of accessibility; and be proficient with Photoshop/Sketch.\r\n\r\n- You’ll also have good knowledge of Javascript & jQuery, Version Control (Preferably Git), Build tools (Grunt/Gulp), CSS preprocessors (Sass/LESS).\r\n\r\n- You’ll have experience of Wordpress site building, theming, Plugin selection and Plugin development.\r\n\r\n- You’ll be interested in Agile – we don’t do things any other way… in fact, we even set up our pension in an Agile way!\r\n\r\n- You’ll be happy to communicate with clients, perhaps a small bit of travel, but most importantly, be a problem solver with a proactive approach to getting stuff done. We’re a consultancy, so these attributes are all important.\r\n\r\n- You’ll be interested in pushing yourself and developing specialist knowledge. We encourage our consultants to go to networking events, training and conferences; in fact we have a separate budget and 10% time allowance for innovation and things that will make you better!\r\n\r\nIn return we offer a relaxed working environment, regular events (chosen by the team), a pension scheme and time to innovate.\r\n\r\n###Apply\r\nIf you can do all this and more, you sound like you’ll have a great time working with us – and we’d love to hear from you. Send your CV and salary expectations through to [careers@manifesto.co.uk](mailto:careers@manifesto.co.uk \"FED Role application\") and we'll take a look.\r\n\r\nNo agencies please!",
+      "featured": "false",
+      "featured_text": "",
+      "remote": "false",
+      "term": "Full Time",
+      "title": "Wordpress & Front End Developer",
+      "url": "http://codepen.io/url/job/nORoDr",
+      "hashid": "NkDDQk",
+      "address": {
+        "address1": "141-143 Shoreditch High Street",
+        "city": "London",
+        "state_prov": "",
+        "postal_code": "E1 6JE",
+        "country": "GB"
+      }
+    },
+    {
+      "company_name": "Bytion",
+      "description": "",
+      "featured": "false",
+      "featured_text": "",
+      "remote": "true",
+      "term": "Full Time",
+      "title": "Front-End Web Developer",
+      "url": "http://codepen.io/url/job/ZMjPar",
+      "hashid": "jzWOqz"
+    },
+    {
+      "company_name": "EF Education First",
+      "description": "",
+      "featured": "false",
+      "featured_text": "",
+      "remote": "false",
+      "term": "Full Time",
+      "title": "UI Web Developer",
+      "url": "http://codepen.io/url/job/zEgXqr",
+      "hashid": "QzQZrA",
+      "address": {
+        "address1": "2 Education Circle",
+        "city": "Cambridge",
+        "state_prov": "MA",
+        "postal_code": "02141",
+        "country": "US"
+      }
+    },
+    {
+      "company_name": "MJD Interactive",
+      "description": "",
+      "featured": "true",
+      "featured_text": "Be a part of the creative collective recently awarded SD Journal Best Places to Work.",
+      "remote": "false",
+      "term": "Full Time",
+      "title": "Senior Front End Engineer",
+      "url": "http://codepen.io/url/job/zamRvz",
+      "hashid": "gkMVJz",
+      "address": {
+        "address1": "4667 Cass St",
+        "city": "San Diego",
+        "state_prov": "CA",
+        "postal_code": "92109",
+        "country": "US"
+      }
+    },
+    {
+      "company_name": "Trimble Inc.",
+      "description": "",
+      "featured": "false",
+      "featured_text": "",
+      "remote": "false",
+      "term": "Full Time",
+      "title": "Front-End Developer",
+      "url": "http://codepen.io/url/job/zvMDxn",
+      "hashid": "VknJqk",
+      "address": {
+        "address1": "4730 Walnut St.",
+        "city": "Boulder",
+        "state_prov": "CO",
+        "postal_code": "80301",
+        "country": "US"
+      }
+    },
+    {
+      "company_name": "Gallagher & Associates",
+      "description": "<p><strong>Contract Senior/Mid Frontend Developer</strong></p>\r\n<p>Gallagher &amp; Associates is looking for a talented Contract Senior/Mid Frontend Web developer. We are currently seeking strong candidates with the ability to work in house as well as remotely. You will be reporting to a development team-lead on a per project basis. We are seeking candidates who exhibit a strong ability to communicate across disciplines and who have a strong portfolio of production quality work. You will be working in a dynamic environment where projects develop in a collaboration with a variety of departments including project management, visual design, ux design, etc.</p>\r\n<p>&nbsp;</p>\r\n<p>G&amp;A specializes in site specific interactive experiences. We are interested in using web technologies for traditional purposes (i.e. informational kiosks, micro sites), as well as challenging purposes such as locally distributed gaming mechanisms, WebGL realtime rendering, animations, and spatial exploration tools. The Contract Front Developer should be able to take ownership of project tasks and seamlessly execute alongside the rest of the development team.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>You will work in collaboratively with internal design teams and with clients including renowned museums, corporations, universities and governmental organizations. &nbsp;Our projects range from traveling exhibits, to corporate centers, to large scale museums.&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>Responsibilities</p>\r\n<ul>\r\n<li style=\"\">\r\n<p>Report to development team-lead about tasks, schedules, and status.</p>\r\n</li>\r\n<li style=\"\">\r\n<p>Work independently and take ownership of tasks delegated by the team lead.</p>\r\n</li>\r\n<li style=\"\">\r\n<p>Take ownership of bug fixing and visual troubleshooting.</p>\r\n</li>\r\n<li style=\"\">\r\n<p>Pixel perfect design implementation.</p>\r\n</li>\r\n<li style=\"\">\r\n<p>If possible, work in-office for periods where collaboration is advantageous.</p>\r\n</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>Qualifications</p>\r\n<ul>\r\n<li style=\"\">\r\n<p>Degree in Computer Science, or equivalent experience; advanced degree a plus.</p>\r\n</li>\r\n<li style=\"\">\r\n<p>Minimum 4+ years developing cutting edge web experiences.</p>\r\n</li>\r\n<li style=\"\">\r\n<p>Experience working in an agile or iterative fashion.</p>\r\n</li>\r\n<li style=\"\">\r\n<p>Expert knowledge of modern web stacks and WebAPIs (Javascript, React, NodeJS, SASS,, Relational, REST APIs, WebSockets, WebRTC, WebGL, D3, etc).</p>\r\n</li>\r\n<li style=\"\">\r\n<p>Working knowledge of backend technologies.</p>\r\n</li>\r\n<li style=\"\">\r\n<p>Experience with long-running websites or installations.</p>\r\n</li>\r\n<li style=\"\">\r\n<p>Experience working with GIT.</p>\r\n</li>\r\n<li style=\"\">\r\n<p>Experience working with a ticketing system such as Jira.</p>\r\n</li>\r\n<li style=\"\">\r\n<p>Experience working in an agency environment.</p>\r\n</li>\r\n<li style=\"\">\r\n<p>Github portfolio with past work experience and personal projects</p>\r\n</li>\r\n</ul>\r\n<p>&nbsp;</p>\r\n<p>Gallagher &amp; Associates is a global award winning, full service museum exhibition design firm, specializing in design and development of interpretive 3D experiences and interactive media installations. We believe that the hallmark of any exhibit is storytelling and lies in its ability to capture a visitor&rsquo;s imagination through sights, sounds and words. Constant collaboration between disciplines and with our clients is the foundation of our creative process. Gallagher &amp; Associates&rsquo; collaborative working style facilitates the process that is required to develop a storyline that provides a rich, layered learning experience.</p>\r\n<p>&nbsp;</p>\r\n<p>To Apply</p>\r\n<p>&nbsp;</p>\r\n<p>Please submit a resume and a GitHub link to <a href=\"mailto:technology@gallagherdesign.com\">technology@gallagherdesign.com</a>.</p>\r\n<p>&nbsp;</p>\r\n<p>Ideal candidates are located within the tri-state area and have the ability to work in Manhattan for short periods of time. &nbsp;Remote development is possible for strong candidates when the project allows.</p>",
+      "featured": "false",
+      "featured_text": "",
+      "remote": "false",
+      "term": "Freelance",
+      "title": "Senior/Mid Frontend Developer",
+      "url": "http://codepen.io/url/job/rNRLDr",
+      "hashid": "mErdZz",
+      "address": {
+        "address1": "494 8th Avenue",
+        "city": "New York",
+        "state_prov": "NY",
+        "postal_code": "10001",
+        "country": "US"
+      }
+    },
+    {
+      "company_name": "National Geographic Partners",
+      "description": "The Creative Developer will help guide the interaction and creative development of web applications and interfaces with a significant focus on user experiences and dynamic storytelling. Working with a team of designers, editors, product owners and developers, this position will be involved in all phases of digital projects, products and stories. The ideal candidate will have an exceptional portfolio demonstrating user innovations, particularly for mobile devices. \r\n\r\nResponsibilities\r\nWrite elegant front-end code for highly-visual, interactive, experiences. \r\nWork with design, product and technology teams to create editorial tools that push the boundaries of digital storytelling. \r\nCreate a library of interactive components that can be easily utilized by the newsroom and editorial teams. \r\nCreate high-level storyboards, wireframes and prototypes that effectively communicate interaction and design ideas.\r\nCollaborate on best practices for developing interactive experiences with map, graphic and technology teams. Develop documentation, maintain code libraries and style guides. \r\nConduct research on industry and technology trends, and continually innovate on digital products that align with National Geographic’s brand standards.\r\n\r\nQualifications\r\nBachelor’s degree or equivalent in Graphic Design, UX or HCI \r\nExceptional written and verbal communication skills\r\nProficiency with JavaScript, HTML and CSS; working knowledge of HTML5, CSS3; responsive design\r\nAT least 2 years of experience with data visualization, frameworks and data libraries is a plus\r\nExperience with video, audio and photography is preferred\r\nDivision Description\r\n\r\nNational Geographic Partners LLC, a joint venture between National Geographic Society and 21st Century Fox, combines National Geographic television channels with National Geographic’s media and consumer-oriented assets, including National Geographic magazines; National Geographic Studios; related digital and social media platforms; books; maps; children’s media; and ancillary activities that include travel, location-based entertainment, archival sales, catalog, licensing and e-commerce businesses. A portion of the proceeds from National Geographic Partners LLC will be used to fund science, exploration, conservation and education through significant ongoing contributions to the work of the National Geographic Society.\r\n\r\nWe are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, gender identity, disability, protected veteran status, or any other characteristic protected by law.\r\n\r\n**Please visit our website and apply there at: \r\nhttps://foxcareers.com/**",
+      "featured": "false",
+      "featured_text": "",
+      "remote": "false",
+      "term": "Full Time",
+      "title": "Senior Creative Developer",
+      "url": "http://codepen.io/url/job/nBLOYZ",
+      "hashid": "okXeKz",
+      "address": {
+        "address1": "1145 17th St. NW",
+        "city": "Washington",
+        "state_prov": "DC",
+        "postal_code": "20036",
+        "country": "US"
+      }
+    }
+  ]
+}
